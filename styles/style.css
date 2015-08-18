@@ -129,6 +129,34 @@ body {
     .venue-wrapper .venue-block img {
       margin-bottom: 12px; }
 
+.sponsored-venue .inner {
+  background: url("../img/restaurant.jpg") center center no-repeat;
+  background-size: cover; }
+.sponsored-venue .wrapper {
+  background-color: rgba(0, 0, 0, 0.2);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-align: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  height: 400px;
+  -webkit-transition: all 0.5s ease;
+          transition: all 0.5s ease; }
+  .sponsored-venue .wrapper h1, .sponsored-venue .wrapper p {
+    color: white;
+    text-align: center; }
+  .sponsored-venue .wrapper:hover {
+    background-color: rgba(0, 0, 0, 0.5); }
+
 .cta-area .title {
   border-bottom: 1px solid #f3f4f4;
   margin-bottom: 40px; }

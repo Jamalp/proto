@@ -110,6 +110,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/restaurant.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.05592e+06,
+		"inputAbbreviatedPath": "\/img\/restaurant.jpg",
+		"outputAbbreviatedPath": "\/img\/restaurant.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/sponsored-post.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

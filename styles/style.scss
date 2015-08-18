@@ -127,6 +127,31 @@ body {
 	}
 }
 
+.sponsored-venue {
+	.inner {
+		background:url('../img/restaurant.jpg') center center no-repeat;
+		background-size:cover;
+		
+	}
+	.wrapper {
+		background-color:rgba(0,0,0,0.2);
+		display:flex;
+		flex-align:center;
+		justify-content:center;
+		flex-direction:column;
+		height:400px;
+		transition:all 0.5s ease;
+		h1,p {
+			color:white;
+			text-align:center;
+		}
+
+		&:hover {
+			background-color:rgba(0,0,0,0.5);
+		}
+	}
+}
+
 .cta-area {
 	.title {
 		border-bottom:1px solid rgb(243, 244, 244);
