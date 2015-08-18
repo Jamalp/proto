@@ -1,0 +1,1 @@
+var app=app||{};!function($){app.main={carousel:function(){$(".carousel").find(".inner").slick({dots:!1,arrows:!1,draggable:!1,waitForAnimate:!1,infinite:!0,autoplaySpeed:6e3})},init:function(){console.log("online")}},jQuery(document).ready(function(){app.main.init()})}(jQuery);
