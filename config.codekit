@@ -11,6 +11,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/avatar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16574,
+		"inputAbbreviatedPath": "\/img\/avatar.jpg",
+		"outputAbbreviatedPath": "\/img\/avatar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/block-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -44,6 +55,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/block-4-blur.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.76484e+06,
+		"inputAbbreviatedPath": "\/img\/block-4-blur.png",
+		"outputAbbreviatedPath": "\/img\/block-4-blur.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/block-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -73,6 +95,17 @@
 		"initialSize": 697215,
 		"inputAbbreviatedPath": "\/img\/block-6.jpg",
 		"outputAbbreviatedPath": "\/img\/block-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/blog-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53214,
+		"inputAbbreviatedPath": "\/img\/blog-1.jpg",
+		"outputAbbreviatedPath": "\/img\/blog-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

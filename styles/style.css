@@ -211,3 +211,45 @@ body {
         margin-bottom: 10px; }
       .cta-area .inner .content-container .copy-wrapper p {
         font-size: 14px; }
+
+.editorial .hero {
+  margin-bottom: 40px; }
+  .editorial .hero .image-wrap {
+    position: relative;
+    height: 600px;
+    overflow: hidden; }
+  .editorial .hero .regular,
+  .editorial .hero .blurred {
+    position: absolute;
+    width: 100%;
+    min-height: 600px;
+    -webkit-transform: translate3d(0, 0, 0); }
+  .editorial .hero .regular {
+    opacity: 1; }
+  .editorial .hero .blurred {
+    opacity: 0; }
+.editorial .blog {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+  .editorial .blog .author {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    alien-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+    .editorial .blog .author .avatar-wrapper {
+      width: 40px; }
+  .editorial .blog .author, .editorial .blog .side-bar {
+    width: 25%; }
+  .editorial .blog .content {
+    width: 50%; }
+    .editorial .blog .content .copy {
+      color: #333;
+      line-height: 1.7em;
+      font-size: 18px; }

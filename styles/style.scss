@@ -210,3 +210,58 @@ body {
 
 	}
 }
+
+// Editorial
+
+.editorial {
+	.hero {
+		margin-bottom:40px;
+		.image-wrap {
+		  position: relative;
+		  height: 600px;
+		  overflow: hidden
+		}
+
+		.regular,
+		.blurred {
+		  position: absolute;
+		  width: 100%;
+		  min-height: 600px;
+		  -webkit-transform: translate3d(0, 0, 0);
+		}
+
+		.regular {
+		  opacity: 1;
+		}
+
+		.blurred {
+		  opacity: 0;
+		}
+	}
+
+	.blog {
+		display:flex;
+
+		.author {
+			display:flex;
+			alien-items:center;
+			justify-content:center;
+			.avatar-wrapper {
+				width:40px;
+			}
+		}
+		.author,.side-bar {
+			width:25%;
+		}
+
+		.content {
+			width: 50%;
+
+			.copy {
+				color: #333;
+			    line-height: 1.7em;
+			    font-size: 18px;
+			}
+		}
+	}
+}
