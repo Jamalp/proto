@@ -152,6 +152,17 @@ body {
 	}
 }
 
+.side-bar {
+			padding-left:80px;
+			.wrapper {
+				.advertisement {
+					background-color: #e6e2d6;
+					height: 1000px;
+
+				}
+			}
+		}
+
 .cta-area {
 	.title {
 		border-bottom:1px solid rgb(243, 244, 244);
@@ -241,6 +252,7 @@ body {
 
 	.blog {
 		display:flex;
+		padding: 0 60px;
 
 		.author {
 			display:flex;

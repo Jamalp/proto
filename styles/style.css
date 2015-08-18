@@ -157,6 +157,12 @@ body {
   .sponsored-venue .wrapper:hover {
     background-color: rgba(0, 0, 0, 0.5); }
 
+.side-bar {
+  padding-left: 80px; }
+  .side-bar .wrapper .advertisement {
+    background-color: #e6e2d6;
+    height: 1000px; }
+
 .cta-area .title {
   border-bottom: 1px solid #f3f4f4;
   margin-bottom: 40px; }
@@ -232,7 +238,8 @@ body {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex; }
+  display: flex;
+  padding: 0 60px; }
   .editorial .blog .author {
     display: -webkit-box;
     display: -webkit-flex;
